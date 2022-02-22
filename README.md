@@ -1,6 +1,6 @@
 # Hi, I’m Betül 👋   <hr>
-- 👀 Software
-- 🌱 HTML and CSS
+- 👀 Altium (4/5)
+- 🌱 C (3/5)/HTML and CSS(3/5)/Matlab(2/5)
 - www.kyncbetul.tk <hr>
  **Contact** 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betulkoyuncu/)
