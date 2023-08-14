@@ -1,6 +1,5 @@
 # Hi, I’m Betül 👋   <hr>
 - 👀 PCB Desing/Logic Desing /Computer Architecture /Web Desing
-- 🌱 C /C++  
   **Contact** 
  
  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betulkoyuncu/)
