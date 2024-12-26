@@ -14,7 +14,7 @@ LIFT-UP Sanayi Odaklı Lisans Bitirme Projeleri Programı 2023 - 2024 Projeleri 
 # Sunumlar
 [https://prezi.com/view/WcBCdy1E1uYRN19gtH0P/] BİTİRME PROJESİ
 
-[https://prezi.com/p/zxzsxuhog53d/?present=1] GES SUNUMU
+[https://prezi.com/p/zxzsxuhog53d/?present=1] Fotovoltaik Sistemler
 
 ## Deneyimler
 
